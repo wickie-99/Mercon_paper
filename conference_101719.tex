@@ -11,9 +11,7 @@
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
 \begin{document}
 
-\title{Effect of Injection Timing and Valve Timing on Combustion Characteristics and Performance of Port-Fueled Hydrogen Internal Combustion Engines\\
-% {\footnotesize \textsuperscript{*}Note: Sub-titles are not captured in Xplore and
-% should not be used}
+\title{Effect of Injection and Valve Timing on Combustion Characteristics and Performance of Port-Fuelled Hydrogen Internal Combustion Engines
 }
 
 \author{\IEEEauthorblockN{Isuru Wickramaarachchi}
@@ -50,137 +48,184 @@ waisurumangala@gmail.com}
 \maketitle
 
 \begin{abstract}
-Combustion Characteristics are affeced by valve and injection timing in H\textsubscript{2} engines.
+The urgency to mitigate global warming has propelled hydrogen to the forefront as a viable alternative fuel. Hydrogen internal combustion engines, abnormal combustion poses a significant challenge. Manipulating design parameters such as valve timing, injection timing, and others can potentially mitigate this issue. The relationship between these adjustments and their impact on combustion characteristics and engine performance is not fully understood. Particularly, valve and injection timing are critical in influencing mixture formation—a determinant of combustion behavior and engine performance. Previous research has primarily focused on the isolated effects of these parameters, leaving a gap in understanding their synergistic influence. Our focus is to bridge this knowledge gap by comprehensively analyzing the combined effect of valve and injection timing on the combustion characteristics and performance of port-fueled hydrogen internal combustion engines. The combined effect of valve and injection timing on combustion characteristics and engine performance is investigated using numerical simulations.
 \end{abstract}
 
 \begin{IEEEkeywords}
-valve, injection, combustion characteristics, hydrogen, port-fuelled
+valve timing, injection timing, performance, combustion characteristics, hydrogen
 \end{IEEEkeywords}
 
 \section{Introduction}
-Due to global warming, hydrogen is getting popular as an alternative fuel. It is suggested that abnormal combustion, which is a major problem in hydrogen engines, can be controlled by changing design parameters including valve timing, injection timing, injection pressure, intake pressure, spark timing and other parameters. However, the effect of these adjustments	with combustion characteristics and engine performance is not well understood. Among the other parameters, valve and injection timing heavily affect the mixture formation which is major factors of combustion characteristics and engine performance. Although valve and injection timing are individually studied for their combustion characteristics and performance, their combined effect has not clearly demonstrated  yet. Our project focuses on analyzing the combined effect of valve and injection timing on combustion characteristics and performance of port-fueled hydrogen internal combustion engines.
+Global warming presents the most severe environmental challenge today, primarily driven by the increased carbon dioxide (CO2) emissions from the consumption of fossil fuels. The transportation sector, which heavily relies on Internal Combustion Engines (ICEs), remains a major contributor to these emissions. Consequently, the urgency to make these engines more sustainable and environmentally friendly is undeniable. Efforts to address this issue led to exploring the adoption of alternative fuels. In this regard, hydrogen has emerged as a compelling option, taking advantage of its favourable combustion characteristics together with zero carbon emissions. 
+The literature identifies two distinct types of hydrogen engines: Port Fuel Injection (PFI) and Direct Injection (DI) engines. PFI involves injecting fuel into the intake manifold, where it mixes with air before reaching the combustion chamber. In contrast, DI engines inject hydrogen directly into the chamber during the compression stroke, initiating the ignition of the compressed air-fuel mixture. Particularly, in DI engines, the processes of fuel-air mixing, and combustion occur simultaneously, leading to less time available for mixture formation. To achieve sufficient mixing, higher injection pressures and precisely manufactured injectors are required, which leads to increased costs. Conversely, PFI separates the mixing and combustion processes, affording more time for the creation of a uniform fuel-air mixture, eliminating the necessity for precisely manufactured injectors and the application of high injection pressures. Therefore, PFI hydrogen engines represent a more viable solution for the rapid adaptation of alternative fuels due to their cost-effectivity and simple construction.
+Abnormal combustion including knocking and backfire are major problems found in hydrogen engines. It has been demonstrated that those can be controlled by changing design parameters including valve timing, injection timing, injection pressure, intake pressure, spark timing and other parameters. Among the other parameters, valve and injection timing heavily affect the trapped hydrogen mass and mixture formation, which defines the combustion characteristics of internal combustion engines. The combustion process can lead to incomplete combustion or knocking combustion depending on the equivalence ratio.
+Although valve and injection timing are individually studied, their influence on each other is highly undeniable. Both these parameters collectively define the mixture and thereby combustion characteristics and performance. Our project focuses on analyzing the combined effect of valve and injection timing on combustion characteristics and performance of port-fueled hydrogen internal combustion engines.
+
 
 \section{Litreture Review}
 
 \subsection{Injection Timing}
 
+Wang [1] changed injection start times and monitored the hydrogen mass within the cylinder with crank angle. The amount of trapped mass and mass backflow was different under each scenario. Early injection caused less amount of backflow and higher fraction of mass can flow into the cylinder. Backflow of hydrogen can be seen in every case after the compression stroke starts (after 540 CAD). It can be explained using the push generated by the upward movement of the piston. If the hydrogen injection is delayed, more hydrogen mass would be affected by this negative force, consequently reducing trapped hydrogen mass. Yun [2] has also measured the trapped hydrogen mass but considering the wider range of injection timing. In addition to the decreasing trend of trapped mass with delayed hydrogen injection the effect of excessively early injection also identified. In combination, trapped hydrogen mass first increased and then decreased with change of injection timing. An optimum injection timing to trap maximum amount of hydrogen mass could be observed. Yun [2] also showed that the variation of indicated power and thermal efficiency were highly corelated with trapped hydrogen mass. In summary, to achieve higher engine performance, trapped hydrogen mass should be maximized. It could be achieved by careful variation of injection timing.
+Literature gives evidence of forming locally concentrated hydrogen mass near inlet valve seats due to improper injection timing. Duan [3] showed that local concentration first increases and then decreases with injection delaying. When the injection is too early, hydrogen enters the inlet port and spreads towards the inlet valve before the valve opens. When the injection is too late, hydrogen injection continuous after the intake valve closes, causing high concentration mixture. Liu [4] also showed this increasing trend of local concentration with excessively delayed injection timing. 
 
-A study [1] changed injection start times and monitored the hydrogen mass within the cylinder with crank angle. The amount of trapped mass and mass backflow is different under each scenario. 
+Backfire as an abnormal combustion phenomenon, usually characterized by increased intake manifold pressure. Liu [3] showed in the same study of local concentration, excessively early or delayed injection also increases the maximum pressure in the intake port. In the intermediate injection times, the pressure rise is minimal. Comparison of local concentration of hydrogen mass and intake manifold pressure implies that local concentration of hydrogen near valve seats can strongly influence the backfiring risk. Therefore, local hydrogen concentration can be used to comment on the backfire possibility in port fueled hydrogen engines.
 
-\begin{figure}[htbp]
-\centerline{\includegraphics{figures/LR_IT_1.png}}
-\caption{Hydrogen Mass}
-\label{lr_it_1}
-\end{figure}
-
-Similar slopes in the first half – hydrogen enters the cylinder at same rate
-Early injection – less amount of backflow. Higher fraction of mass can flow into the cylinder
-As the compression stroke starts after 540 CAD, flow of hydrogen from cylinder to intake, backflow generates due to the inertia of the piston. Consequently, hydrogen mass within the cylinder is reduced.  
-During the delayed injected cases backflow is much significant.
-Trapped hydrogen mass within the cylinder reduces drastically, decreasing the equivalence ratio.
-
-[2] showed that trapped hydrogen mass increases first and then decrease with delayed injection timing. There is an optimum injection timing to trap maximum amount of hydrogen from injected mass.
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics{figures/LR_IT_2.png}}
-    \caption{Hydrogen Mass}
-    \label{lr_it_2}
-    \end{figure}
-
-\begin{figure}[htbp]
-        \centerline{\includegraphics{figures/LR_IT_3.png}}
-        \caption{Hydrogen Mass}
-        \label{lr_it_3}
-        \end{figure}
-
-It can be observed from the graphs that both indicated power and thermal efficiency corelates with trapped hydrogen mass. Both indicated power and indicated thermal efficiency follows a similar trend as trapped hydrogen mass. 
-Injection timing affects not only the trapped hydrogen mass but for the local concentration of hydrogen mass near valve seats. Figure [3] shows the relationship between injection timing and local concentration of hydrogen mass near valve seats. A similar study has conducted by [4] and found the similar pattern of increasing local concentration of hydrogen with delaying of injection.
- 
-\begin{figure}[htbp]
-    \centerline{\includegraphics{figures/LR_IT_4.png}}
-    \caption{Hydrogen Mass}
-    \label{lr_it_4}
-    \end{figure}
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics{figures/LR_IT_5.png}}
-    \caption{Hydrogen Mass}
-    \label{lr_it_5}
-    \end{figure}
-
-Too early injection – large amount of hydrogen enters the inlet port and spreads towards the inlet valve before the inlet valve opens. As a result, high concentration of mixture gathers around the intake valve.
-Too late injection – hydrogen injection continuous after the intake valve closes, causing high concentration mixture. Hydrogen cannot flow into the cylinder completely.
-Proper injection – high concentrated mixture is maintained at a distance from the intake valve. By the time of valve closing, the mixture has already entered the cylinder.
-
-As we can see from the studies, the increment of local concentration is more rapid when delaying injection than with early injection.
-In the research conducted by [3], and as shown in the graph, excessively early or delayed injection increases the maximum pressure in the intake port which is an indicate of backfire. In the intermediate injection times, the risk of backfire is minimal. 
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics{figures/LR_IT_6.png}}
-    \caption{Hydrogen Mass}
-    \label{lr_it_6}
-    \end{figure}
-
-Comparison of local concentration of hydrogen mass and intake manifold pressure implies that local concentration of hydrogen near valve seats can strongly influence the backfiring risk. 
 In brief, literature suggests that trapped hydrogen mass should be maximized to increase performance of the engine while keeping the local concentrations near inlet valve seats at a minimum level to prevent backfire risks.
+
     
 \subsection{Valve Timing}
 
-From the study conducted by [5] we can observe the variation of in-cylinder mass and backflow mass with change of IV timing.
+From the study [5] we can observe that both trapped mass and backflow mass with change of with valve timing. When the engine speed was lower than 2000 rpm, delaying Inlet Valve Close (IVC) causes a reduction in cylinder mass. The behavior is opposite with engine speeds higher than 2000 rpm. With early IVC, backflow mass was insignificant compared to cylinder mass. However, it is significant when the IVC is retarded. Higher backflow increases the local concentration near inlet valves, increasing the possibility of backfire. Since valve timing affects both trapped mass and local hydrogen concentrations, it is an important factor for both combustion characteristics and engine performance.
+Park [6] showed the effect of Inlet Valve Open (IVO) timing on engine performance and efficiency for engine speed of 2000 rpm. Torque had a decreasing trend with retarding IVO, while the efficiency first increased before decreasing. This increase of thermal efficiency during the first half of IVO delay was due to the decrease in trapped mass. Huynh [7] studied a wider range valve overlap range from 00 - 500 to evaluate engine performance and showed that brake torque reduces in both low and excessive Valve Overlap Times (VOTs). Reduction of engine performance was much more significant with low VOTs than with high VOTs. VOT of 300 was shown to be the optimum VOT for the engine operating conditions in the study. The study also showed that, probability of backfire decreases with decrease of valve overlap. Backfire limiting equivalence ratio, increased up to 1.2 with zero valve overlap. This idea of backfire controlling with reducing VOT is also mentioned by Lee [8]. The study conducted experiments to show that IVO timing can be used to control backfire with an ultra-lean mixture. Results revealed that with a delay of 100CA, backfire-free operation can be ensured. 
 
-\begin{figure}[htbp]
-    \centerline{\includegraphics[width=94mm]{figures/LR_VT_1.png}}
-    \caption{Hydrogen Mass}
-    \label{lr_vt_1}
-    \end{figure}
-
-When the engine speed is lower than 2000 rpm, late closing of IV causes a reduction in cylinder mass. This mass reduction is more significant when the engine speed is much lower.
-The behavior is opposite with engine speeds higher than 2000 rpm.
-Backflow mass is insignificant compared to cylinder mass during the early closure of IV.
-However, it is significant when the IVC is retarded. The trend decreases with higher engine speeds.
-
-As mentioned earlier, trapped mass and backflow mass affects engine performance. Increased trapped mass and reduced backflow leads to higher indicated power and efficiency. Therefore, IV timing is an important factor for engine performance.
-Study [6] showed the effect of IVO time on engine performance and efficiency for engine speed of 2000 rpm. Torque and efficiency decrease with retarding IVO.
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics{figures/LR_VT_2.png}}
-    \caption{Hydrogen Mass}
-    \label{lr_vt_2}
-    \end{figure}
-
-[7] studied a wider range of valve overlaps to evaluate engine performance and showed that brake torque reduces in both low and excessive valve overlap times. VOT of 30 seems to be the optimum VOT within the range in terms of engine performance. Further, torque reduction is more significant with reducing valve overlaps than with increasing. 
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics{figures/LR_VT_3.png}}
-    \caption{Hydrogen Mass}
-    \label{lr_vt_3}
-    \end{figure}
-
-In the same study the effect of backfire with valve overlap is studied. Probability of backfire decreased with decrease of valve overlap. That is, valve overlap can be effectively used to control backfire.
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics{figures/LR_VT_4.png}}
-    \caption{Hydrogen Mass}
-    \label{lr_vt_4}
-    \end{figure}
-
-This idea of backfire controlling with reducing valve overlap is also mentioned by [8]. The study conducted experiments to show that IVO timing can be used to control backfire with an ultra-lean mixture. Results revealed that with a delay of 100CA, backfire-free operation can be ensured.
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics{figures/LR_VT_5.png}}
-    \caption{Hydrogen Mass}
-    \label{lr_vt_5}
-    \end{figure}
 
 \subsection{Combined Effect}
 
-From the evidence above, trapped hydrogen mass and local concentration are highly dependent on both valve and injection timing.  
-As [7] stated, combustion characteristics are changed due to mixing and turbulent intensities.
-Flow characteristics including turbulent intensities changes the amount of mixing thus the mixture uniformity. Proper mixing reduces the local pockets of high concentrated hydrogen which would otherwise cause abnormal combustion events.
-This flow characteristics and mixture uniformity are highly influenced by the combined effect of both valve and injection timing.
-Further, since the trapped mass is affected by both valve and injection timing their combined effect is important to trap the correct amount of hydrogen mass within the cylinder, which would give proper combustion characteristics, performance, and efficiency.
-The combined effect on combustion characteristics and performance is not well demonstrated yet.
+From the evidence above, trapped hydrogen mass and local concentration are highly dependent on both valve and injection timing. As [7] stated, combustion characteristics are changed due to mixing and turbulent intensities. Flow characteristics including turbulent intensities changes the amount of mixing thus the mixture uniformity. Proper mixing reduces the local pockets of high concentrated hydrogen which would otherwise cause abnormal combustion events.
+This flow characteristics and mixture uniformity are highly influenced by the combined effect of both valve and injection timing. Further, since the trapped mass is affected by both valve and injection timing their combined effect is important to trap the correct amount of hydrogen mass within the cylinder, which would give proper combustion characteristics, performance, and efficiency. The combined effect on combustion characteristics and performance is not well demonstrated yet.
 
+The importance of investigating the combined effect of valve and injection timing is mentioned by several researchers. [x, x, x, x].
+
+\section{Engine Specifications}
+Geometric and technical details are show in table 1.
+\begin{table}[!ht]
+    \centering
+    \caption{Engine Specifications}
+    \label{your_label_here}
+    \begin{tabular}{|c|c|}
+    \hline
+    Header 1 & Header 2 \\
+    \hline
+    Bore & 92.6 mm \\
+    Stroke & 86 mm \\
+    Compression Ratio & 10.5 \\
+    Equivalence Ratio & 0.59 \\
+    Injection Duration & 155 CAD \\
+    Engine Speed & 2000 RPM \\
+    \hline
+    \end{tabular}
+    \end{table}
+
+\section{Methodology}
+\begin{itemize}
+    \item Development of a validated numerical model.
+    \item Analyze combustion characteristics with varying injection timing for the case of VOT = 300 to find suitable ranges of hydrogen injection.
+    \item Evaluate combustion characteristics and performance for the range of valve and injection timing.
+    \item Identify the combined effect of valve and injection timing on combustion characteristics and performance
+\end{itemize}
+
+
+\section{Numerical Model}
+\subsection{Model Description}
+Combustion models contain three regions including intake, cylinder, and exhaust. Redlich-Kwong gas equation is used for gas simulations. The Connaire reaction mechanism is used to calculate reaction rates. CFL number-based time stepping is used. The PISO algorithm is used for pressure velocity coupling. URANS-RNG k-epsilon model is used for turbulence modelling. O’Rourke and Amsden model are used to model wall heat transfer. For combustion modeling SAGE detailed chemistry solver is used. A high temperature energy source is used to model the ignition process while fuel injection is modelled as a mass inflow boundary condition.
+\subsection{Mesh Sensitivity Analysis}
+With the available computational power and license requirements, the maximum element count that we can run our simulations is 0.5 million. Mesh sensitivity analysis is carried out up to that point. The analysis shows that the mesh configuration with 8 mm base mesh is suitable for the analysis. The error compared to 6 mm base mesh configuration is only X percent.
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/trapped mass.png}}
+    \caption{Mesh Sensitivity}
+    \label{plt_t}
+    \end{figure}
+\subsection{Model Validation}
+As [4] also mentioned, simulation results are usually greater than experimental data due to limitations of computational mesh and from the fact that only one cylinder is modelled. Other than that, differences in the engine geometry also leads to deviation of results.
+Although the maximum pressure differs by x percent, the numerical model follows the same trend as the experimental data. Therefore, this model can be used to find trends of the combustion process.
+
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/trapped mass.png}}
+    \caption{Model Validation}
+    \label{plt_tt}
+    \end{figure}
+    
+\section{Analysis}
+\subsection{Range Selection}
+Valve overlap time range of 15-45 is selected for the analysis. reasons
+VOT of 30 is first assumed to find the suitable range of injection timing with respect to intake valve open time, since VOT of 30 demonstrated the optimal engine performance in the study [7].
+Range of start angles of 00 aIVO to 400 aIVO is tested for their combustion characteristics. 
+It could be observed that, to properly combusts the mixture within the chamber while generating useful work injection start time of 200 aIVO to 300 aIVO is selected as possible range of injection.
+Earlier injection leads knocking combustion while delayed injection leads to incomplete combustion.
+Within the range injection start angles of 200 aIVO, 250 aIVO and 300 aIVO were selected as early, balanced, and delayed injection for all VOT values.
+
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/trapped mass.png}}
+    \caption{In-Cylinder Pressure for VOT = 30}
+    \label{plt_tttt}
+    \end{figure}
+
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/trapped mass.png}}
+    \caption{Trapped Mass for VOT = 30}
+    \label{plt_ttt}
+    \end{figure}
+
+
+
+\subsection{Combustion Simulations}
+
+\section{Results}
+\subsection{Trapped Mass}
+As we can see on the graph trapped hydrogen mass reduces with delaying injection delay. In the early injection, the injected hydrogen of per cycle can fully flow into the cylinder rapidly. But delayed injection time, the hydrogen gas injected per cycle could not fully enter the cylinder. 
+
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/trapped mass.png}}
+    \caption{Trapped Hydrogen Mass}
+    \label{plt_1}
+    \end{figure}
+
+\subsection{In-Cylinder Pressure}
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/pressure.png}}
+    \caption{Pressure}
+    \label{plt_2}
+    \end{figure}
+
+\subsection{In-Cylinder Temperature}
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/temperature.png}}
+    \caption{Temperature}
+    \label{plt_3}
+    \end{figure}
+
+\subsection{Peak Heat Release Rate}
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/hrr.png}}
+    \caption{HRR}
+    \label{plt_4}
+    \end{figure}
+
+Low heat release rate indicates slower rate of chemical reaction while high heat release rate indicates rapid combustion. To produce more useful work from the combustion process, gradual combustion process should be ensured. 
+HRR < x can be defined as incomplete combustion and HRR > y can be defined as knocking combustion. Both of which should be eliminated for an effective combustion process.
+according to the results, xxxx cases can be defined as inefficient combustion cases.
+This rapid burning is due to increased trapped mass within the cylinder and consequently increased equivalence ratios.
+Ranges of valve and injection timing for proper combustion characteristics.
+
+\subsection{IMEP}
+
+\subsection{Peak Heat Release Rate}
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/imep.png}}
+    \caption{IMEP}
+    \label{plt_5}
+    \end{figure}
+Variation of IMEP with VOT and injection mode.
+Reduced trapped mass – less time to go to cylinder.
+    
+\subsection{Efficiency}
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/imep.png}}
+    \caption{Efficiency}
+    \label{plt_6}
+    \end{figure}
+\subsection{Local Concentration}
+\begin{figure}[htbp]
+    \centerline{\includegraphics{Plots/imep.png}}
+    \caption{Local Concentration}
+    \label{plt_7}
+    \end{figure}
+
+\section{Conclusion}
+
+\section{Future Works}
+Effect of valve and injection timing on backfire, in particular, flame propagation.
 
 \section*{Acknowledgment}
 

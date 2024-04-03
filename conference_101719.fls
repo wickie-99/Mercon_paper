@@ -105,51 +105,8 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopd
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi9.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmrc7t.tfm
-INPUT .\figures\LR_IT_1.png
-INPUT .\figures\LR_IT_1.png
-INPUT .\figures\LR_IT_1.png
-INPUT .\figures\LR_IT_1.png
 OUTPUT conference_101719.pdf
-INPUT .\figures\LR_IT_1.png
-INPUT .\figures\LR_IT_1.png
-INPUT .\figures\LR_IT_1.png
-INPUT .\figures\LR_IT_2.png
-INPUT .\figures\LR_IT_2.png
-INPUT .\figures\LR_IT_2.png
-INPUT .\figures\LR_IT_2.png
-INPUT .\figures\LR_IT_2.png
-INPUT .\figures\LR_IT_2.png
-INPUT .\figures\LR_IT_2.png
-INPUT .\figures\LR_IT_3.png
-INPUT .\figures\LR_IT_3.png
-INPUT .\figures\LR_IT_3.png
-INPUT .\figures\LR_IT_3.png
-INPUT .\figures\LR_IT_3.png
-INPUT .\figures\LR_IT_3.png
-INPUT .\figures\LR_IT_3.png
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\user\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -164,68 +121,100 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi7t.v
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmrc7t.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\trapped mass.png
+INPUT .\Plots\pressure.png
+INPUT .\Plots\pressure.png
+INPUT .\Plots\pressure.png
+INPUT .\Plots\pressure.png
+INPUT .\Plots\pressure.png
+INPUT .\Plots\pressure.png
+INPUT .\Plots\pressure.png
+INPUT .\Plots\temperature.png
+INPUT .\Plots\temperature.png
+INPUT .\Plots\temperature.png
+INPUT .\Plots\temperature.png
+INPUT .\Plots\temperature.png
+INPUT .\Plots\temperature.png
+INPUT .\Plots\temperature.png
+INPUT .\Plots\hrr.png
+INPUT .\Plots\hrr.png
+INPUT .\Plots\hrr.png
+INPUT .\Plots\hrr.png
+INPUT .\Plots\hrr.png
+INPUT .\Plots\hrr.png
+INPUT .\Plots\hrr.png
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT .\figures\LR_IT_4.png
-INPUT .\figures\LR_IT_4.png
-INPUT .\figures\LR_IT_4.png
-INPUT .\figures\LR_IT_4.png
-INPUT .\figures\LR_IT_4.png
-INPUT .\figures\LR_IT_4.png
-INPUT .\figures\LR_IT_4.png
-INPUT .\figures\LR_IT_5.png
-INPUT .\figures\LR_IT_5.png
-INPUT .\figures\LR_IT_5.png
-INPUT .\figures\LR_IT_5.png
-INPUT .\figures\LR_IT_5.png
-INPUT .\figures\LR_IT_5.png
-INPUT .\figures\LR_IT_5.png
-INPUT .\figures\LR_IT_6.png
-INPUT .\figures\LR_IT_6.png
-INPUT .\figures\LR_IT_6.png
-INPUT .\figures\LR_IT_6.png
-INPUT .\figures\LR_IT_6.png
-INPUT .\figures\LR_IT_6.png
-INPUT .\figures\LR_IT_6.png
-INPUT .\figures\LR_VT_1.png
-INPUT .\figures\LR_VT_1.png
-INPUT .\figures\LR_VT_1.png
-INPUT .\figures\LR_VT_1.png
-INPUT .\figures\LR_VT_1.png
-INPUT .\figures\LR_VT_1.png
-INPUT .\figures\LR_VT_1.png
-INPUT .\figures\LR_VT_2.png
-INPUT .\figures\LR_VT_2.png
-INPUT .\figures\LR_VT_2.png
-INPUT .\figures\LR_VT_2.png
-INPUT .\figures\LR_VT_2.png
-INPUT .\figures\LR_VT_2.png
-INPUT .\figures\LR_VT_2.png
-INPUT .\figures\LR_VT_3.png
-INPUT .\figures\LR_VT_3.png
-INPUT .\figures\LR_VT_3.png
-INPUT .\figures\LR_VT_3.png
-INPUT .\figures\LR_VT_3.png
-INPUT .\figures\LR_VT_3.png
-INPUT .\figures\LR_VT_3.png
-INPUT .\figures\LR_VT_4.png
-INPUT .\figures\LR_VT_4.png
-INPUT .\figures\LR_VT_4.png
-INPUT .\figures\LR_VT_4.png
-INPUT .\figures\LR_VT_4.png
-INPUT .\figures\LR_VT_4.png
-INPUT .\figures\LR_VT_4.png
-INPUT .\figures\LR_VT_5.png
-INPUT .\figures\LR_VT_5.png
-INPUT .\figures\LR_VT_5.png
-INPUT .\figures\LR_VT_5.png
-INPUT .\figures\LR_VT_5.png
-INPUT .\figures\LR_VT_5.png
-INPUT .\figures\LR_VT_5.png
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc7t.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
+INPUT .\Plots\imep.png
 INPUT conference_101719.aux
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb

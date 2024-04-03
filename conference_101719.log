@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  2 APR 2024 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  3 APR 2024 16:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -271,78 +271,71 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<figures/LR_IT_1.png, id=1, 194.97844pt x 164.86594pt>
-File: figures/LR_IT_1.png Graphic file (type png)
-<use figures/LR_IT_1.png>
-Package pdftex.def Info: figures/LR_IT_1.png  used on input line 71.
-(pdftex.def)             Requested size: 194.97795pt x 164.86551pt.
-<figures/LR_IT_2.png, id=3, 234.27525pt x 172.84575pt>
-File: figures/LR_IT_2.png Graphic file (type png)
-<use figures/LR_IT_2.png>
-Package pdftex.def Info: figures/LR_IT_2.png  used on input line 85.
-(pdftex.def)             Requested size: 234.27467pt x 172.8453pt.
-<figures/LR_IT_3.png, id=4, 214.401pt x 173.448pt>
-File: figures/LR_IT_3.png Graphic file (type png)
-<use figures/LR_IT_3.png>
-Package pdftex.def Info: figures/LR_IT_3.png  used on input line 91.
-(pdftex.def)             Requested size: 214.40047pt x 173.44757pt.
-
-Underfull \vbox (badness 1048) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
- <./figures/LR_IT_1.png>]
-<figures/LR_IT_4.png, id=14, 205.5178pt x 160.34906pt>
-File: figures/LR_IT_4.png Graphic file (type png)
-<use figures/LR_IT_4.png>
-Package pdftex.def Info: figures/LR_IT_4.png  used on input line 100.
-(pdftex.def)             Requested size: 205.5173pt x 160.34866pt.
-<figures/LR_IT_5.png, id=15, 246.1697pt x 177.66376pt>
-File: figures/LR_IT_5.png Graphic file (type png)
-<use figures/LR_IT_5.png>
-Package pdftex.def Info: figures/LR_IT_5.png  used on input line 106.
-(pdftex.def)             Requested size: 246.16908pt x 177.66331pt.
-<figures/LR_IT_6.png, id=16, 213.79875pt x 152.82094pt>
-File: figures/LR_IT_6.png Graphic file (type png)
-<use figures/LR_IT_6.png>
-Package pdftex.def Info: figures/LR_IT_6.png  used on input line 119.
-(pdftex.def)             Requested size: 213.79822pt x 152.82054pt.
- [2 <./figures/LR_IT_2.png> <./figures/LR_IT_3.png> <./figures/LR_IT_4.png> <./figures/LR_IT_5.png> <./figures/LR_IT_6.png>]
-<figures/LR_VT_1.png, id=25, 419.31656pt x 167.12437pt>
-File: figures/LR_VT_1.png Graphic file (type png)
-<use figures/LR_VT_1.png>
-Package pdftex.def Info: figures/LR_VT_1.png  used on input line 132.
-(pdftex.def)             Requested size: 267.4559pt x 106.5971pt.
-<figures/LR_VT_2.png, id=26, 260.172pt x 171.64125pt>
-File: figures/LR_VT_2.png Graphic file (type png)
-<use figures/LR_VT_2.png>
-Package pdftex.def Info: figures/LR_VT_2.png  used on input line 146.
-(pdftex.def)             Requested size: 260.17134pt x 171.64081pt.
-<figures/LR_VT_3.png, id=27, 200.54926pt x 186.09525pt>
-File: figures/LR_VT_3.png Graphic file (type png)
-<use figures/LR_VT_3.png>
-Package pdftex.def Info: figures/LR_VT_3.png  used on input line 154.
-(pdftex.def)             Requested size: 200.54875pt x 186.09477pt.
-<figures/LR_VT_4.png, id=28, 204.01219pt x 190.46156pt>
-File: figures/LR_VT_4.png Graphic file (type png)
-<use figures/LR_VT_4.png>
-Package pdftex.def Info: figures/LR_VT_4.png  used on input line 162.
-(pdftex.def)             Requested size: 204.01169pt x 190.46107pt.
-<figures/LR_VT_5.png, id=29, 204.01219pt x 193.47281pt>
-File: figures/LR_VT_5.png Graphic file (type png)
-<use figures/LR_VT_5.png>
-Package pdftex.def Info: figures/LR_VT_5.png  used on input line 170.
-(pdftex.def)             Requested size: 204.01169pt x 193.47234pt.
- [3 <./figures/LR_VT_1.png> <./figures/LR_VT_2.png> <./figures/LR_VT_3.png> <./figures/LR_VT_4.png>]
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2]
+<Plots/trapped mass.png, id=13, 206.298pt x 152.205pt>
+File: Plots/trapped mass.png Graphic file (type png)
+<use Plots/trapped mass.png>
+Package pdftex.def Info: Plots/trapped mass.png  used on input line 125.
+(pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
+File: Plots/trapped mass.png Graphic file (type png)
+<use Plots/trapped mass.png>
+Package pdftex.def Info: Plots/trapped mass.png  used on input line 134.
+(pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
+File: Plots/trapped mass.png Graphic file (type png)
+<use Plots/trapped mass.png>
+Package pdftex.def Info: Plots/trapped mass.png  used on input line 149.
+(pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
+File: Plots/trapped mass.png Graphic file (type png)
+<use Plots/trapped mass.png>
+Package pdftex.def Info: Plots/trapped mass.png  used on input line 155.
+(pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
+File: Plots/trapped mass.png Graphic file (type png)
+<use Plots/trapped mass.png>
+Package pdftex.def Info: Plots/trapped mass.png  used on input line 169.
+(pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
+<Plots/pressure.png, id=15, 244.842pt x 146.949pt>
+File: Plots/pressure.png Graphic file (type png)
+<use Plots/pressure.png>
+Package pdftex.def Info: Plots/pressure.png  used on input line 176.
+(pdftex.def)             Requested size: 244.84138pt x 146.94864pt.
+<Plots/temperature.png, id=16, 244.842pt x 146.949pt>
+File: Plots/temperature.png Graphic file (type png)
+<use Plots/temperature.png>
+Package pdftex.def Info: Plots/temperature.png  used on input line 183.
+(pdftex.def)             Requested size: 244.84138pt x 146.94864pt.
+<Plots/hrr.png, id=17, 244.842pt x 146.949pt>
+File: Plots/hrr.png Graphic file (type png)
+<use Plots/hrr.png>
+Package pdftex.def Info: Plots/hrr.png  used on input line 190.
+(pdftex.def)             Requested size: 244.84138pt x 146.94864pt.
+ [3 <./Plots/trapped mass.png>] [4 <./Plots/pressure.png> <./Plots/temperature.png> <./Plots/hrr.png>]
+<Plots/imep.png, id=28, 264.99pt x 161.622pt>
+File: Plots/imep.png Graphic file (type png)
+<use Plots/imep.png>
+Package pdftex.def Info: Plots/imep.png  used on input line 205.
+(pdftex.def)             Requested size: 264.98935pt x 161.62158pt.
+File: Plots/imep.png Graphic file (type png)
+<use Plots/imep.png>
+Package pdftex.def Info: Plots/imep.png  used on input line 214.
+(pdftex.def)             Requested size: 264.98935pt x 161.62158pt.
+File: Plots/imep.png Graphic file (type png)
+<use Plots/imep.png>
+Package pdftex.def Info: Plots/imep.png  used on input line 220.
+(pdftex.def)             Requested size: 264.98935pt x 161.62158pt.
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -354,26 +347,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4
-
- <./figures/LR_VT_5.png>] (conference_101719.aux)
+[5 <./Plots/imep.png>] (conference_101719.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4253 strings out of 474424
- 67856 string characters out of 5742211
- 1940496 words of memory out of 5000000
- 26567 multiletter control sequences out of 15000+600000
- 592809 words of font info for 101 fonts, out of 8000000 for 9000
+ 4223 strings out of 474424
+ 66953 string characters out of 5742211
+ 1946496 words of memory out of 5000000
+ 26537 multiletter control sequences out of 15000+600000
+ 593959 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,1030b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (4 pages, 502796 bytes).
+ 57i,9n,65p,1409b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on conference_101719.pdf (5 pages, 262458 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
