@@ -122,7 +122,7 @@ Combustion models contain three regions including intake, cylinder, and exhaust.
 \subsection{Mesh Sensitivity Analysis}
 With the available computational power and license requirements, the maximum element count that we can run our simulations is 0.5 million. Mesh sensitivity analysis is carried out up to that point. The analysis shows that the mesh configuration with 8 mm base mesh is suitable for the analysis. The error compared to 6 mm base mesh configuration is only X percent.
 \begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/trapped mass.png}}
+    \centerline{\includegraphics{Plots/mesh_sens.png}}
     \caption{Mesh Sensitivity}
     \label{plt_t}
     \end{figure}
@@ -130,11 +130,7 @@ With the available computational power and license requirements, the maximum ele
 As [4] also mentioned, simulation results are usually greater than experimental data due to limitations of computational mesh and from the fact that only one cylinder is modelled. Other than that, differences in the engine geometry also leads to deviation of results.
 Although the maximum pressure differs by x percent, the numerical model follows the same trend as the experimental data. Therefore, this model can be used to find trends of the combustion process.
 
-\begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/trapped mass.png}}
-    \caption{Model Validation}
-    \label{plt_tt}
-    \end{figure}
+In the previous figure, we can see that the model is vlaidated.
     
 \section{Analysis}
 \subsection{Range Selection}
@@ -146,13 +142,13 @@ Earlier injection leads knocking combustion while delayed injection leads to inc
 Within the range injection start angles of 200 aIVO, 250 aIVO and 300 aIVO were selected as early, balanced, and delayed injection for all VOT values.
 
 \begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/trapped mass.png}}
+    \centerline{\includegraphics{Plots/30_pressure.png}}
     \caption{In-Cylinder Pressure for VOT = 30}
     \label{plt_tttt}
     \end{figure}
 
 \begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/trapped mass.png}}
+    \centerline{\includegraphics[width=88.9mm]{Plots/30_h2.png}}
     \caption{Trapped Mass for VOT = 30}
     \label{plt_ttt}
     \end{figure}

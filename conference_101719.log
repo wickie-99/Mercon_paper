@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  3 APR 2024 16:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  3 APR 2024 17:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -285,57 +285,56 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2]
-<Plots/trapped mass.png, id=13, 206.298pt x 152.205pt>
+<Plots/mesh_sens.png, id=13, 250.41554pt x 179.2296pt>
+File: Plots/mesh_sens.png Graphic file (type png)
+<use Plots/mesh_sens.png>
+Package pdftex.def Info: Plots/mesh_sens.png  used on input line 125.
+(pdftex.def)             Requested size: 250.41493pt x 179.22914pt.
+<Plots/30_pressure.png, id=15, 250.41554pt x 179.2296pt>
+File: Plots/30_pressure.png Graphic file (type png)
+<use Plots/30_pressure.png>
+Package pdftex.def Info: Plots/30_pressure.png  used on input line 145.
+(pdftex.def)             Requested size: 250.41493pt x 179.22914pt.
+<Plots/30_h2.png, id=16, 250.41554pt x 179.2296pt>
+File: Plots/30_h2.png Graphic file (type png)
+<use Plots/30_h2.png>
+Package pdftex.def Info: Plots/30_h2.png  used on input line 151.
+(pdftex.def)             Requested size: 252.94498pt x 181.04506pt.
+ [3 <./Plots/mesh_sens.png> <./Plots/30_pressure.png>]
+<Plots/trapped mass.png, id=22, 206.298pt x 152.205pt>
 File: Plots/trapped mass.png Graphic file (type png)
 <use Plots/trapped mass.png>
-Package pdftex.def Info: Plots/trapped mass.png  used on input line 125.
+Package pdftex.def Info: Plots/trapped mass.png  used on input line 165.
 (pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
-File: Plots/trapped mass.png Graphic file (type png)
-<use Plots/trapped mass.png>
-Package pdftex.def Info: Plots/trapped mass.png  used on input line 134.
-(pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
-File: Plots/trapped mass.png Graphic file (type png)
-<use Plots/trapped mass.png>
-Package pdftex.def Info: Plots/trapped mass.png  used on input line 149.
-(pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
-File: Plots/trapped mass.png Graphic file (type png)
-<use Plots/trapped mass.png>
-Package pdftex.def Info: Plots/trapped mass.png  used on input line 155.
-(pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
-File: Plots/trapped mass.png Graphic file (type png)
-<use Plots/trapped mass.png>
-Package pdftex.def Info: Plots/trapped mass.png  used on input line 169.
-(pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
-<Plots/pressure.png, id=15, 244.842pt x 146.949pt>
+<Plots/pressure.png, id=23, 244.842pt x 146.949pt>
 File: Plots/pressure.png Graphic file (type png)
 <use Plots/pressure.png>
-Package pdftex.def Info: Plots/pressure.png  used on input line 176.
+Package pdftex.def Info: Plots/pressure.png  used on input line 172.
 (pdftex.def)             Requested size: 244.84138pt x 146.94864pt.
-<Plots/temperature.png, id=16, 244.842pt x 146.949pt>
+<Plots/temperature.png, id=24, 244.842pt x 146.949pt>
 File: Plots/temperature.png Graphic file (type png)
 <use Plots/temperature.png>
-Package pdftex.def Info: Plots/temperature.png  used on input line 183.
+Package pdftex.def Info: Plots/temperature.png  used on input line 179.
 (pdftex.def)             Requested size: 244.84138pt x 146.94864pt.
-<Plots/hrr.png, id=17, 244.842pt x 146.949pt>
+<Plots/hrr.png, id=25, 244.842pt x 146.949pt>
 File: Plots/hrr.png Graphic file (type png)
 <use Plots/hrr.png>
-Package pdftex.def Info: Plots/hrr.png  used on input line 190.
+Package pdftex.def Info: Plots/hrr.png  used on input line 186.
 (pdftex.def)             Requested size: 244.84138pt x 146.94864pt.
- [3 <./Plots/trapped mass.png>] [4 <./Plots/pressure.png> <./Plots/temperature.png> <./Plots/hrr.png>]
-<Plots/imep.png, id=28, 264.99pt x 161.622pt>
+<Plots/imep.png, id=26, 264.99pt x 161.622pt>
 File: Plots/imep.png Graphic file (type png)
 <use Plots/imep.png>
-Package pdftex.def Info: Plots/imep.png  used on input line 205.
+Package pdftex.def Info: Plots/imep.png  used on input line 201.
 (pdftex.def)             Requested size: 264.98935pt x 161.62158pt.
 File: Plots/imep.png Graphic file (type png)
 <use Plots/imep.png>
-Package pdftex.def Info: Plots/imep.png  used on input line 214.
+Package pdftex.def Info: Plots/imep.png  used on input line 210.
 (pdftex.def)             Requested size: 264.98935pt x 161.62158pt.
 File: Plots/imep.png Graphic file (type png)
 <use Plots/imep.png>
-Package pdftex.def Info: Plots/imep.png  used on input line 220.
+Package pdftex.def Info: Plots/imep.png  used on input line 216.
 (pdftex.def)             Requested size: 264.98935pt x 161.62158pt.
-
+ [4 <./Plots/30_h2.png> <./Plots/trapped mass.png> <./Plots/pressure.png> <./Plots/temperature.png> <./Plots/hrr.png>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -354,17 +353,17 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4223 strings out of 474424
- 66953 string characters out of 5742211
+ 4243 strings out of 474424
+ 67474 string characters out of 5742211
  1946496 words of memory out of 5000000
- 26537 multiletter control sequences out of 15000+600000
+ 26557 multiletter control sequences out of 15000+600000
  593959 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,9n,65p,1409b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (5 pages, 262458 bytes).
+Output written on conference_101719.pdf (5 pages, 1077805 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
