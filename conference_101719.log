@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  3 APR 2024 17:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  4 APR 2024 05:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -285,21 +285,21 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2]
-<Plots/mesh_sens.png, id=13, 250.41554pt x 179.2296pt>
+<Plots/mesh_sens.png, id=13, 252.945pt x 180.675pt>
 File: Plots/mesh_sens.png Graphic file (type png)
 <use Plots/mesh_sens.png>
 Package pdftex.def Info: Plots/mesh_sens.png  used on input line 125.
-(pdftex.def)             Requested size: 250.41493pt x 179.22914pt.
-<Plots/30_pressure.png, id=15, 250.41554pt x 179.2296pt>
+(pdftex.def)             Requested size: 252.94438pt x 180.67455pt.
+<Plots/30_pressure.png, id=15, 252.945pt x 180.675pt>
 File: Plots/30_pressure.png Graphic file (type png)
 <use Plots/30_pressure.png>
 Package pdftex.def Info: Plots/30_pressure.png  used on input line 145.
-(pdftex.def)             Requested size: 250.41493pt x 179.22914pt.
-<Plots/30_h2.png, id=16, 250.41554pt x 179.2296pt>
+(pdftex.def)             Requested size: 252.94438pt x 180.67455pt.
+<Plots/30_h2.png, id=16, 252.945pt x 180.675pt>
 File: Plots/30_h2.png Graphic file (type png)
 <use Plots/30_h2.png>
 Package pdftex.def Info: Plots/30_h2.png  used on input line 151.
-(pdftex.def)             Requested size: 252.94498pt x 181.04506pt.
+(pdftex.def)             Requested size: 252.94498pt x 180.67729pt.
  [3 <./Plots/mesh_sens.png> <./Plots/30_pressure.png>]
 <Plots/trapped mass.png, id=22, 206.298pt x 152.205pt>
 File: Plots/trapped mass.png Graphic file (type png)
@@ -361,7 +361,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,9n,65p,1409b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (5 pages, 1077805 bytes).
+Output written on conference_101719.pdf (5 pages, 1243453 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
