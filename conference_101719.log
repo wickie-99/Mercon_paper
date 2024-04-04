@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  4 APR 2024 05:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  5 APR 2024 03:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/H2E/Paper/Mercon/conference_101719.tex
-(d:/H2E/Paper/Mercon/conference_101719.tex
+**d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex
+(d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (IEEEtran.cls
@@ -354,14 +354,14 @@ L3 programming layer <2024-03-14>
  ) 
 Here is how much of TeX's memory you used:
  4243 strings out of 474424
- 67474 string characters out of 5742211
+ 67610 string characters out of 5742211
  1946496 words of memory out of 5000000
  26557 multiletter control sequences out of 15000+600000
  593959 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,1409b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,65p,1426b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (5 pages, 1243453 bytes).
+Output written on conference_101719.pdf (5 pages, 1242963 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

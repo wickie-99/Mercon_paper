@@ -1,6 +1,6 @@
-PWD d:\H2E\Paper\Mercon
+PWD d:\H2E_new\Mercon_Paper\Mercon_paper
 INPUT C:\Users\user\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\H2E\Paper\Mercon\conference_101719.tex
+INPUT d:\H2E_new\Mercon_Paper\Mercon_paper\conference_101719.tex
 OUTPUT conference_101719.log
 INPUT .\IEEEtran.cls
 INPUT IEEEtran.cls
