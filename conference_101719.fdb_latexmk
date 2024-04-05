@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1712267287.1066 "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1712267288.80341 0
-  "C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1711767743 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1712330833.18867 "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1712330834.89293 0
+  "C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712328787 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/user/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1711357884 24235534 bfd339897f9fcad351bf75641771c4c2 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136752454 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -26,6 +26,9 @@
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb" 1136833548 44729 fea0975e20ec51c992338362f05f1146 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb" 1136833548 44656 0cbca70e0534538582128f6b54593cca ""
@@ -51,6 +54,7 @@
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty" 1705273578 5319 2b738d02ce36ada6dcdd9534940db0ee ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty" 1705273578 2894 fc64867f9d198785eabe71a88276a9cb ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/cite/cite.sty" 1425353482 26218 19edeff8cdc2bcb704e8051dc55eb5a7 ""
+  "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/derivative/derivative.sty" 1707591992 58190 96a93f1ab39ca7d70df00c58e992e487 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg" 1465894292 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -61,6 +65,8 @@
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx" 1665067579 3171 1cf0d440b5464e2f034398ce4ef36f75 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1710412547 29918 d08e4795c0778dfb000e82d9225c6ce2 ""
+  "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty" 1710413133 6565 0b340a7e9bf9e07ae19f3e617f5e364a ""
+  "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1710413257 4674 6210c671686aebd688a59108f03c2182 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "IEEEtran.cls" 1712267262 288304 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
@@ -72,9 +78,9 @@
   "Plots/pressure.png" 1712267262 44312 4b37c0a9fab998f5086697d93869a67d ""
   "Plots/temperature.png" 1712267262 44153 79604bd5323d6621d471473be2dd810e ""
   "Plots/trapped mass.png" 1712267262 35680 5823e37673fd0358fbf69a2dbaec9b1c ""
-  "conference_101719.aux" 1712267288 4726 b6e4a9ef053a1e12f12828d6e5ce3d4c "pdflatex"
-  "conference_101719.tex" 1712267277 19390 f9f1cfca1df7ddea94a7df821fa89b20 ""
-  "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" 1712267277 19390 f9f1cfca1df7ddea94a7df821fa89b20 ""
+  "conference_101719.aux" 1712330834 4975 72829fb9f9c677df3cfd57952cd7488a "pdflatex"
+  "conference_101719.tex" 1712330832 19075 26462e4f8e416b7c6f593a7cca420298 ""
+  "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" 1712330832 19075 26462e4f8e416b7c6f593a7cca420298 ""
   (generated)
   "conference_101719.aux"
   "conference_101719.log"

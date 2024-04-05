@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  5 APR 2024 03:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  5 APR 2024 20:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,41 +229,54 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/derivative\derivative.sty (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-03-14 L3 programming layer (loader) 
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box55
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
+)
+Package: derivative 2024/02/08 v1.4 Nice and easy derivatives and differentials for LaTeX
+\l__deriv_gcd_counter_int=\count286
+\l__deriv_vmo_int=\count287
+\l__deriv_var_count_int=\count288
+\l__deriv_tmpa_int=\count289
+\l__deriv_tmpb_int=\count290
+\l__deriv_seq_pos_int=\count291
+\l__deriv_sort_max_int=\count292
 ) (conference_101719.aux)
 \openout1 = `conference_101719.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 -- Lines per column: 56 (exact).
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count286
+\scratchcounter=\count293
 \scratchdimen=\dimen175
 \scratchbox=\box56
-\nofMPsegments=\count287
-\nofMParguments=\count288
+\nofMPsegments=\count294
+\nofMParguments=\count295
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count289
+\MPscratchCnt=\count296
 \MPscratchDim=\dimen176
-\MPnumerator=\count290
-\makeMPintoPDFobject=\count291
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
 \everyMPtoPDFconversion=\toks25
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -271,70 +284,141 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 66--71
 
- [1{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 72--79
+\OT1/ptm/m/n/10 oc-cur si-mul-ta-ne-ously, lead-ing to less time avail-able for
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 72--79
+\OT1/ptm/m/n/10 mix-ture for-ma-tion. To achieve suf-fi-cient mix-ing, higher
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--79
+
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 80--84
+\OT1/ptm/m/n/10 are ma-jor prob-lems found in hy-dro-gen en-gines. It has
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 80--84
+\OT1/ptm/m/n/10 for-ma-tion, which de-fines the com-bus-tion char-ac-ter-is-tics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
+
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 85--88
+\OT1/ptm/m/n/10 com-pre-hen-sive un-der-stand-ing of the com-bined ef-fect of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
+
+ []
+
+[1{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+Underfull \hbox (badness 1675) in paragraph at lines 95--107
+\OT1/ptm/m/n/10 com-bi-na-tion, trapped hy-dro-gen mass first in-creased and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--107
+
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 108--118
+\OT1/ptm/m/n/10 hy-dro-gen mass near in-let valve seats due to im-proper
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 154.
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 154.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2]
-<Plots/mesh_sens.png, id=13, 252.945pt x 180.675pt>
+<Plots/mesh_sens.png, id=14, 252.945pt x 180.675pt>
 File: Plots/mesh_sens.png Graphic file (type png)
 <use Plots/mesh_sens.png>
-Package pdftex.def Info: Plots/mesh_sens.png  used on input line 125.
+Package pdftex.def Info: Plots/mesh_sens.png  used on input line 200.
 (pdftex.def)             Requested size: 252.94438pt x 180.67455pt.
-<Plots/30_pressure.png, id=15, 252.945pt x 180.675pt>
+<Plots/30_pressure.png, id=16, 252.945pt x 180.675pt>
 File: Plots/30_pressure.png Graphic file (type png)
 <use Plots/30_pressure.png>
-Package pdftex.def Info: Plots/30_pressure.png  used on input line 145.
+Package pdftex.def Info: Plots/30_pressure.png  used on input line 220.
 (pdftex.def)             Requested size: 252.94438pt x 180.67455pt.
-<Plots/30_h2.png, id=16, 252.945pt x 180.675pt>
+<Plots/30_h2.png, id=17, 252.945pt x 180.675pt>
 File: Plots/30_h2.png Graphic file (type png)
 <use Plots/30_h2.png>
-Package pdftex.def Info: Plots/30_h2.png  used on input line 151.
+Package pdftex.def Info: Plots/30_h2.png  used on input line 226.
 (pdftex.def)             Requested size: 252.94498pt x 180.67729pt.
- [3 <./Plots/mesh_sens.png> <./Plots/30_pressure.png>]
-<Plots/trapped mass.png, id=22, 206.298pt x 152.205pt>
+<Plots/trapped mass.png, id=18, 206.298pt x 152.205pt>
 File: Plots/trapped mass.png Graphic file (type png)
 <use Plots/trapped mass.png>
-Package pdftex.def Info: Plots/trapped mass.png  used on input line 165.
+Package pdftex.def Info: Plots/trapped mass.png  used on input line 240.
 (pdftex.def)             Requested size: 206.29749pt x 152.20462pt.
-<Plots/pressure.png, id=23, 244.842pt x 146.949pt>
+<Plots/pressure.png, id=19, 244.842pt x 146.949pt>
 File: Plots/pressure.png Graphic file (type png)
 <use Plots/pressure.png>
-Package pdftex.def Info: Plots/pressure.png  used on input line 172.
+Package pdftex.def Info: Plots/pressure.png  used on input line 247.
 (pdftex.def)             Requested size: 244.84138pt x 146.94864pt.
-<Plots/temperature.png, id=24, 244.842pt x 146.949pt>
+<Plots/temperature.png, id=20, 244.842pt x 146.949pt>
 File: Plots/temperature.png Graphic file (type png)
 <use Plots/temperature.png>
-Package pdftex.def Info: Plots/temperature.png  used on input line 179.
+Package pdftex.def Info: Plots/temperature.png  used on input line 254.
 (pdftex.def)             Requested size: 244.84138pt x 146.94864pt.
-<Plots/hrr.png, id=25, 244.842pt x 146.949pt>
+<Plots/hrr.png, id=21, 244.842pt x 146.949pt>
 File: Plots/hrr.png Graphic file (type png)
 <use Plots/hrr.png>
-Package pdftex.def Info: Plots/hrr.png  used on input line 186.
+Package pdftex.def Info: Plots/hrr.png  used on input line 261.
 (pdftex.def)             Requested size: 244.84138pt x 146.94864pt.
-<Plots/imep.png, id=26, 264.99pt x 161.622pt>
+ [3 <./Plots/mesh_sens.png>] [4 <./Plots/30_pressure.png> <./Plots/30_h2.png> <./Plots/trapped mass.png> <./Plots/pressure.png> <./Plots/temperature.png> <./Plots/hrr.png>]
+<Plots/imep.png, id=37, 264.99pt x 161.622pt>
 File: Plots/imep.png Graphic file (type png)
 <use Plots/imep.png>
-Package pdftex.def Info: Plots/imep.png  used on input line 201.
+Package pdftex.def Info: Plots/imep.png  used on input line 276.
 (pdftex.def)             Requested size: 264.98935pt x 161.62158pt.
 File: Plots/imep.png Graphic file (type png)
 <use Plots/imep.png>
-Package pdftex.def Info: Plots/imep.png  used on input line 210.
+Package pdftex.def Info: Plots/imep.png  used on input line 285.
 (pdftex.def)             Requested size: 264.98935pt x 161.62158pt.
 File: Plots/imep.png Graphic file (type png)
 <use Plots/imep.png>
-Package pdftex.def Info: Plots/imep.png  used on input line 216.
+Package pdftex.def Info: Plots/imep.png  used on input line 291.
 (pdftex.def)             Requested size: 264.98935pt x 161.62158pt.
- [4 <./Plots/30_h2.png> <./Plots/trapped mass.png> <./Plots/pressure.png> <./Plots/temperature.png> <./Plots/hrr.png>]
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -353,17 +437,17 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4243 strings out of 474424
- 67610 string characters out of 5742211
- 1946496 words of memory out of 5000000
- 26557 multiletter control sequences out of 15000+600000
- 593959 words of font info for 106 fonts, out of 8000000 for 9000
+ 6642 strings out of 474424
+ 150450 string characters out of 5742211
+ 1945496 words of memory out of 5000000
+ 28945 multiletter control sequences out of 15000+600000
+ 595037 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,1426b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (5 pages, 1242963 bytes).
+ 64i,12n,79p,715b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on conference_101719.pdf (5 pages, 1272944 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
