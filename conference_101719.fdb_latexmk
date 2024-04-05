@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1712330833.18867 "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1712330834.89293 0
+["pdflatex"] 1712333627.2324 "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1712333628.94197 0
   "C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712328787 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/user/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1711357884 24235534 bfd339897f9fcad351bf75641771c4c2 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -26,7 +26,10 @@
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb" 1247596667 37912 07513ec114ac737ab54cea0152f4424b ""
+  "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
@@ -78,9 +81,9 @@
   "Plots/pressure.png" 1712267262 44312 4b37c0a9fab998f5086697d93869a67d ""
   "Plots/temperature.png" 1712267262 44153 79604bd5323d6621d471473be2dd810e ""
   "Plots/trapped mass.png" 1712267262 35680 5823e37673fd0358fbf69a2dbaec9b1c ""
-  "conference_101719.aux" 1712330834 4975 72829fb9f9c677df3cfd57952cd7488a "pdflatex"
-  "conference_101719.tex" 1712330832 19075 26462e4f8e416b7c6f593a7cca420298 ""
-  "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" 1712330832 19075 26462e4f8e416b7c6f593a7cca420298 ""
+  "conference_101719.aux" 1712333628 5273 8c5b497f5fcd0ea9093b1933d968b72a "pdflatex"
+  "conference_101719.tex" 1712333626 21329 a256f1ae915f9c683dd544cd3c56ef7e ""
+  "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" 1712333626 21329 a256f1ae915f9c683dd544cd3c56ef7e ""
   (generated)
   "conference_101719.aux"
   "conference_101719.log"
