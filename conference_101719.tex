@@ -191,15 +191,25 @@ Where $M$ is the total number of species present in the chemical reaction mechan
 The net production rate of each species in a multi-step chemical reaction is given by,
 
 \begin{gather*}
-    \dot\omega = \sum v\textsubscript{m,r} q_r
+    \dot\omega = \sum_{m=1}^{M} v\textsubscript{m,r} 
 \end{gather*}
 
-Where, vm;r is the coefficients difference (¼v00 m; r-v0 m; r) and $q_r$ is the rate-of-progress variable for the $r\textsuperscript{th}$ elementary reaction and is given by,
+Where, $v\textsubscript{m,r}$ is the coefficients difference and $q_r$ is the rate-of-progress variable for the $r\textsuperscript{th}$ elementary reaction and is given by,
+
+\begin{gather*}
+    q_r = k\textsubscript{fr} \prod_{m=1}^{M} [X_m]\textsuperscript{v'\textsubscript{m,r}} - k\textsubscript{rr} \prod_{m=1}^{M} [X_m]\textsuperscript{v''\textsubscript{m,r}}
+\end{gather*}
+
+Where, $k\textsubscript{$fr$}$ and $k_\textsubscript{$rr$}$ are the elementary forward and reverse rate coefficients for rth reaction, and $X_m$ is the molar concentration of species $m$.
+
+\subsection{Model Description}
+A single-cylinder spark ignition engine was selected for the present study.
+The geometric and technical details of the engine are given in the table. 
 
 
 \begin{table}[!ht]
     \centering
-    \caption{Engine Specifications}
+    \caption{Technical Details}
     \label{your_label_here}
     \begin{tabular}{|c|c|}
     \hline
@@ -211,22 +221,49 @@ Where, vm;r is the coefficients difference (¼v00 m; r-v0 m; r) and $q_r$ is the
     Equivalence Ratio & 0.59 \\
     Injection Duration & 155 CAD \\
     Engine Speed & 2000 RPM \\
+    EVO & 2000 RPM \\
+    EVC & 2000 RPM \\
     \hline
     \end{tabular}
     \end{table}
 
-\section{Methodology}
-\begin{itemize}
-    \item Development of a validated numerical model.
-    \item Analyze combustion characteristics with varying injection timing for the case of VOT = 300 to find suitable ranges of hydrogen injection.
-    \item Evaluate combustion characteristics and performance for the range of valve and injection timing.
-    \item Identify the combined effect of valve and injection timing on combustion characteristics and performance
-\end{itemize}
 
+
+The three-dimensional CFD analysis was carried out using CONVERGE, a commercial CFD code.
+The gas simulation was carried out with the Redlich-Kwong gas equation. 
+The reaction mechanism for hydrogen combustion was taken from \cite{b9} which contains 5 elements, 10 species and 21 chemical reactions. 
+A variable time step algorithm based on convection, diffusion and Mach CFL numbers was used. 
+The pressure-velocity coupling was achieved using a modified Pressure Implicit with the Splitting of Operator (PISO) algorithm. 
+Combustion equations were solved by SAGE while the transport equations were solved by the CFD solver to model combustion with detailed chemistry.
+Unsteady Reynolds Averaged Navier-Stokes equations (URANS) were applied to model the flow field.
+Turbulence effects were considered using the Renormalization group (RNG) $k-\epsilon$ model.\\
+
+\section{Methodology}
+
+The ignition process was modelled using a high-temperature energy source with two phases, arc and glow discharge between the electrodes of the spark plug.
+Hydrogen injection is modelled using mass inflow boundary conditions.
+Different input files consisting of valve lift profiles were used to set up valve movements at different valve overlap times.
+Convection CFL number during the suction stroke was kept as 1 to accurately capture the mixture formation.
+Results of two consecutive cycles were used to initialize the simulations to dampen out the effect of initial conditions.\\
+
+Several mesh configurations with different base mesh sizes were tested for mesh sensitivity.
+Considering the available computational resources, the sensitivity analysis was conducted only up to 8 mm base mesh.
+Experimental data which have generated using a similar engine as our study \cite{b10} is used to validate the model.
+Few combustion simulations to select suitable ranges for valve and injection timing.\\
+
+Reducing VOT below 15\textsuperscript{0} would result in the opening of the intake valve after the suction stroke starts which leads to highly inefficient suction stroke and reduced trapped mass.
+Further, backfire in hydrogen engines are highly evident when the valve overlap is higher than 45\textsuperscript{0} \cite{b7,b10}.
+Therefore, a VOT range of 15\textsuperscript{0} – 45\textsuperscript{0} is selected for the analysis.
+VOT of 30\textsuperscript{0} demonstrated the optimal engine performance in the study \cite{b7} and it lies in the middle of the selected VOT range of the study.
+Therefore, a VOT of 30\textsuperscript{0} is first assumed to select a suitable range of injection timing for the analysis.
+Relative Injection Start Time (IST) with respect to IVO is tested for combustion characteristics in 50 intervals.
+3 modes of injection: early, balance and delayed were derived for every VOT, consequently leading to a simulation matrix of 21 operating conditions.
+Results were analysed to identify trends in combustion characteristics and performance.
 
 \section{Numerical Model}
 \subsection{Model Description}
-Combustion models contain three regions including intake, cylinder, and exhaust. Redlich-Kwong gas equation is used for gas simulations. The Connaire reaction mechanism is used to calculate reaction rates. CFL number-based time stepping is used. The PISO algorithm is used for pressure velocity coupling. URANS-RNG k-epsilon model is used for turbulence modelling. O’Rourke and Amsden model are used to model wall heat transfer. For combustion modeling SAGE detailed chemistry solver is used. A high temperature energy source is used to model the ignition process while fuel injection is modelled as a mass inflow boundary condition.
+Combustion models contain three regions including intake, cylinder, and exhaust. Redlich-Kwong gas equation is used for gas simulations. The Connaire reaction mechanism is used to calculate reaction rates. CFL number-based time stepping is used. The PISO algorithm is used for pressure velocity coupling. URANS-RNG k-epsilon model is used for turbulence modelling. O’Rourke and Amsden model are used to model wall heat transfer. For combustion modeling SAGE detailed chemistry solver is used. 
+A high temperature energy source is used to model the ignition process while fuel injection is modelled as a mass inflow boundary condition.
 \subsection{Mesh Sensitivity Analysis}
 With the available computational power and license requirements, the maximum element count that we can run our simulations is 0.5 million. Mesh sensitivity analysis is carried out up to that point. The analysis shows that the mesh configuration with 8 mm base mesh is suitable for the analysis. The error compared to 6 mm base mesh configuration is only X percent.
 \begin{figure}[htbp]
@@ -345,7 +382,7 @@ Effect of valve and injection timing on backfire, in particular, flame propagati
 \bibitem{b7} T. C. Huynh, J. K. Kang, K. C. Noh, J. T. Lee, and J. A. Caton, “Controlling Backfire Using Changes of the Valve Overlap Period for a Hydrogen-Fueled Engine Using an External Mixture,” in ASME 2007 Internal Combustion Engine Division Fall Technical Conference, Charleston, South Carolina, USA: ASMEDC, Jan. 2007, pp. 243–251. doi: 10.1115/ICEF2007-1702.
 \bibitem{b8} J. Lee, K. Lee, J. Lee, and B. Anh, “High power performance with zero NOx emission in a hydrogen-fueled spark ignition engine by valve timing and lean boosting,” Fuel, vol. 128, pp. 381–389, Jul. 2014, doi: 10.1016/j.fuel.2014.03.010.
 \bibitem{b9} M. Ó Conaire, H. J. Curran, J. M. Simmie, W. J. Pitz, and C. K. Westbrook, “A comprehensive modeling study of hydrogen oxidation,” Int. J. Chem. Kinet., vol. 36, no. 11, pp. 603–622, Nov. 2004, doi: 10.1002/kin.20036.
-\bibitem{10} V. Dhyani and K. A. Subramanian, “Fundamental characterization of backfire in a hydrogen fuelled spark ignition engine using CFD and experiments,” Int. J. Hydrog. Energy, vol. 44, no. 60, pp. 32254–32270, Dec. 2019, doi: 10.1016/j.ijhydene.2019.10.077.
+\bibitem{b10} V. Dhyani and K. A. Subramanian, “Fundamental characterization of backfire in a hydrogen fuelled spark ignition engine using CFD and experiments,” Int. J. Hydrog. Energy, vol. 44, no. 60, pp. 32254–32270, Dec. 2019, doi: 10.1016/j.ijhydene.2019.10.077.
 
 \end{thebibliography}
 
