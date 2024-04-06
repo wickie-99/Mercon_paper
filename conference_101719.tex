@@ -168,8 +168,33 @@ $p$ is pressure, $\tau\textsubscript{xy}$ is stress tensor, and $S\textsubscript
         \pdv{(\rho e)}{t} + \pdv{(\rho ev)}{y} = -p \pdv{v}{y} + \tau \textsubscript{xy} \pdv{u}{y} + \pdv{(k \pdv{T}{y})}{y} + \pdv{(\rho D \sum h_m \pdv{Y_m}{y})}{y} + S
     \end{gather*}
 
-Where $e$ is specific internal energy, $k$ is conductivity, $T$ is temperature, $D$ is coefficient of mass diffusion, $h_m$ is species enthalpy, $Y_m$ is mass fraction of species $m$ and $S$ is source term which accounts for energy sources.
+Where $e$ is specific internal energy, $k$ is conductivity, $T$ is temperature, $D$ is coefficient of mass diffusion, $h_m$ is species enthalpy, $Y_m$ is mass fraction of species $m$ and $S$ is source term which accounts for energy sources.\\
 
+\subsubsection{Species transport equation}
+
+    \begin{gather*}
+        \pdv{\rho_m}{t} + \pdv{(\rho_m v)}{y} = \pdv{(\rho D \pdv{Y_m}{y})}{y} +  S_m
+    \end{gather*}
+
+Where $r_m$ is species density, $D$ is the mass diffusion coefficient, $Y_m$ is the mass fraction of species $m$ and $S_m$ is the source term which accounts for the chemical reactions.\\
+
+\subsection{Combustion model}
+SAGE detailed chemistry solver is used to model the combustion process and is explained below.\\
+A multi-step chemical reaction can be expressed in the form of,
+
+\begin{gather*}
+    \sum v'\textsubscript{m,r} X_m \leftrightarrow \sum v''\textsubscript{m,r} X_m for  r = 1,2,...R
+\end{gather*}
+
+Where $M$ is the total number of species present in the chemical reaction mechanism, $R$ is the total number of elementary reactions, $v'\textsubscript{m,r}$ and $v''\textsubscript{r,m}$ are the stoichiometric coefficients of the reactants and products respectively, for the $m\textsuperscript{th}$ species in the $r\textsuperscript{th}$ reaction and $X_m$ is the chemical symbol of species $m$.\\
+
+The net production rate of each species in a multi-step chemical reaction is given by,
+
+\begin{gather*}
+    \dot\omega = \sum v\textsubscript{m,r} q_r
+\end{gather*}
+
+Where, vm;r is the coefficients difference (¼v00 m; r-v0 m; r) and $q_r$ is the rate-of-progress variable for the $r\textsuperscript{th}$ elementary reaction and is given by,
 
 
 \begin{table}[!ht]
