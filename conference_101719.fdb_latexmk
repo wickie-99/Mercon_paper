@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1712847174.20245 "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1712847175.14725 0
+["pdflatex"] 1712848447.18592 "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1712848448.31499 0
   "C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712328787 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/user/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1711357884 24235534 bfd339897f9fcad351bf75641771c4c2 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -74,15 +74,20 @@
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "IEEEtran.cls" 1712267262 288304 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "conference_101719.aux" 1712847175 4080 acc510eab1edf3c405932de781b93849 "pdflatex"
-  "conference_101719.tex" 1712375176 24681 e9fb620a1d8178a13f36474a6ab396e8 ""
-  "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" 1712375176 24681 e9fb620a1d8178a13f36474a6ab396e8 ""
+  "conference_101719.aux" 1712848448 5016 756984f652609eb2a56628739edd0009 "pdflatex"
+  "conference_101719.tex" 1712848446 29785 78a95686502937cc1774631c45f3cee2 ""
+  "d:/H2E_new/Mercon_Paper/Mercon_paper/conference_101719.tex" 1712848446 29785 78a95686502937cc1774631c45f3cee2 ""
   "plots and graphs/1.png" 1712846310 71883 77a363a5856190c6c24fcfba4ad37488 ""
+  "plots and graphs/10.png" 1712847213 41681 9d9fa3af6afb4afa1d8f0d41c7dfe3dd ""
+  "plots and graphs/11.png" 1712847222 33893 55859c3bb0074ac2b2caad7130cce7be ""
   "plots and graphs/2.png" 1712846319 76225 ade643f3afb20c4b8490550cd8e41230 ""
   "plots and graphs/3.png" 1712847161 67501 5939f307d2a4d3f6fe92fd99c5ed6bb0 ""
   "plots and graphs/4.png" 1712846516 80037 294d60b6c5b19fa668bd0c8ff82abd99 ""
   "plots and graphs/5.png" 1712846528 86357 64dfd5d5f4057ac54cbfb8bb91813cac ""
   "plots and graphs/6.png" 1712847173 45919 64914abc3daa42d658bc9a6bb3a67595 ""
+  "plots and graphs/7.png" 1712846559 39337 ff9ed2533ef02676aa34fbd274d162ff ""
+  "plots and graphs/8.png" 1712847185 46908 6d8a20c098a66e7a1397d86ea36e8951 ""
+  "plots and graphs/9.png" 1712847204 28934 9ac268d856fd33bcfeffe493dff581b2 ""
   (generated)
   "conference_101719.aux"
   "conference_101719.log"

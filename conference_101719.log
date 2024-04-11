@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  11 APR 2024 20:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.25)  11 APR 2024 20:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -284,47 +284,32 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 66--71
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 72--79
+Underfull \hbox (badness 1442) in paragraph at lines 65--66
 \OT1/ptm/m/n/10 oc-cur si-mul-ta-ne-ously, lead-ing to less time avail-able for
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 72--79
+Underfull \hbox (badness 1924) in paragraph at lines 65--66
 \OT1/ptm/m/n/10 mix-ture for-ma-tion. To achieve suf-fi-cient mix-ing, higher
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--79
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 80--84
+Underfull \hbox (badness 1546) in paragraph at lines 67--68
 \OT1/ptm/m/n/10 are ma-jor prob-lems found in hy-dro-gen en-gines. It has
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 80--84
-\OT1/ptm/m/n/10 for-ma-tion, which de-fines the com-bus-tion char-ac-ter-is-tics
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--84
-
- []
-
-
-Underfull \hbox (badness 1748) in paragraph at lines 85--88
-\OT1/ptm/m/n/10 com-pre-hen-sive un-der-stand-ing of the com-bined ef-fect of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
@@ -332,54 +317,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
 
 ]
-Underfull \hbox (badness 1675) in paragraph at lines 95--107
-\OT1/ptm/m/n/10 com-bi-na-tion, trapped hy-dro-gen mass first in-creased and
+Underfull \hbox (badness 1527) in paragraph at lines 75--76
+\OT1/ptm/m/n/10 in in-di-cated power and ther-mal ef-fi-ciency was strongly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--107
-
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 108--118
-\OT1/ptm/m/n/10 hy-dro-gen mass near in-let valve seats due to im-proper
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--118
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--127
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--139
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 154.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 154.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2]
-Underfull \hbox (badness 10000) in paragraph at lines 162--164
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 
  []
 
 
-Overfull \hbox (49.34546pt too wide) detected at line 169
+Overfull \hbox (49.34546pt too wide) detected at line 111
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+\OT1/ptm/m/n/10 com-pu-ta-tional re-sources, the sen-si-tiv-ity anal-y-sis was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
@@ -388,84 +388,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
-
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 232--240
-\OT1/ptm/m/n/10 Pres-sure Im-plicit with the Split-ting of Op-er-a-tor (PISO)
- []
-
-
-Underfull \hbox (badness 1354) in paragraph at lines 232--240
-\OT1/ptm/m/n/10 al-go-rithm. Com-bus-tion equa-tions were solved by SAGE
- []
-
-
-Underfull \hbox (badness 1721) in paragraph at lines 232--240
-\OT1/ptm/m/n/10 to model com-bus-tion with de-tailed chem-istry. Un-steady
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--240
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--248
-
- []
-
-
-Underfull \hbox (badness 1509) in paragraph at lines 249--253
-[]\OT1/ptm/m/n/10 Several mesh con-fig-u-ra-tions with dif-fer-ent base mesh
- []
-
-
-Underfull \hbox (badness 2035) in paragraph at lines 249--253
-\OT1/ptm/m/n/10 sizes were tested for mesh sen-si-tiv-ity. Con-sid-er-ing the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--253
-
- []
-
 [3]
 <plots and graphs/1.png, id=23, 216.153pt x 154.395pt>
 File: plots and graphs/1.png Graphic file (type png)
 <use plots and graphs/1.png>
-Package pdftex.def Info: plots and graphs/1.png  used on input line 268.
+Package pdftex.def Info: plots and graphs/1.png  used on input line 190.
 (pdftex.def)             Requested size: 216.15247pt x 154.39462pt.
 <plots and graphs/2.png, id=25, 221.0805pt x 158.0085pt>
 File: plots and graphs/2.png Graphic file (type png)
 <use plots and graphs/2.png>
-Package pdftex.def Info: plots and graphs/2.png  used on input line 283.
+Package pdftex.def Info: plots and graphs/2.png  used on input line 199.
 (pdftex.def)             Requested size: 221.07996pt x 158.00809pt.
 <plots and graphs/3.png, id=26, 231.264pt x 155.49pt>
 File: plots and graphs/3.png Graphic file (type png)
 <use plots and graphs/3.png>
-Package pdftex.def Info: plots and graphs/3.png  used on input line 300.
+Package pdftex.def Info: plots and graphs/3.png  used on input line 209.
 (pdftex.def)             Requested size: 231.26343pt x 155.48961pt.
 <plots and graphs/4.png, id=27, 218.4525pt x 156.0375pt>
 File: plots and graphs/4.png Graphic file (type png)
 <use plots and graphs/4.png>
-Package pdftex.def Info: plots and graphs/4.png  used on input line 310.
+Package pdftex.def Info: plots and graphs/4.png  used on input line 217.
 (pdftex.def)             Requested size: 218.45197pt x 156.03711pt.
- [4 <./plots and graphs/1.png> <./plots and graphs/2.png> <./plots and graphs/3.png>]
-<plots and graphs/5.png, id=34, 185.931pt x 165.2355pt>
+ [4 <./plots and graphs/1.png> <./plots and graphs/2.png>]
+<plots and graphs/5.png, id=33, 185.931pt x 165.2355pt>
 File: plots and graphs/5.png Graphic file (type png)
 <use plots and graphs/5.png>
-Package pdftex.def Info: plots and graphs/5.png  used on input line 324.
+Package pdftex.def Info: plots and graphs/5.png  used on input line 226.
 (pdftex.def)             Requested size: 185.93053pt x 165.23509pt.
-<plots and graphs/6.png, id=35, 214.839pt x 157.023pt>
+<plots and graphs/6.png, id=34, 214.839pt x 157.023pt>
 File: plots and graphs/6.png Graphic file (type png)
 <use plots and graphs/6.png>
-Package pdftex.def Info: plots and graphs/6.png  used on input line 330.
+Package pdftex.def Info: plots and graphs/6.png  used on input line 232.
 (pdftex.def)             Requested size: 214.83847pt x 157.0226pt.
+<plots and graphs/7.png, id=35, 244.0755pt x 174.4335pt>
+File: plots and graphs/7.png Graphic file (type png)
+<use plots and graphs/7.png>
+Package pdftex.def Info: plots and graphs/7.png  used on input line 242.
+(pdftex.def)             Requested size: 244.07489pt x 174.43306pt.
+<plots and graphs/8.png, id=36, 244.185pt x 176.733pt>
+File: plots and graphs/8.png Graphic file (type png)
+<use plots and graphs/8.png>
+Package pdftex.def Info: plots and graphs/8.png  used on input line 248.
+(pdftex.def)             Requested size: 244.18439pt x 176.73256pt.
+<plots and graphs/9.png, id=37, 212.868pt x 168.63pt>
+File: plots and graphs/9.png Graphic file (type png)
+<use plots and graphs/9.png>
+Package pdftex.def Info: plots and graphs/9.png  used on input line 256.
+(pdftex.def)             Requested size: 212.86746pt x 168.62958pt.
+ [5 <./plots and graphs/3.png> <./plots and graphs/4.png> <./plots and graphs/5.png> <./plots and graphs/6.png> <./plots and graphs/7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
+ []
+
+<plots and graphs/10.png, id=46, 244.185pt x 180.456pt>
+File: plots and graphs/10.png Graphic file (type png)
+<use plots and graphs/10.png>
+Package pdftex.def Info: plots and graphs/10.png  used on input line 266.
+(pdftex.def)             Requested size: 244.18439pt x 180.45555pt.
+<plots and graphs/11.png, id=47, 244.185pt x 148.701pt>
+File: plots and graphs/11.png Graphic file (type png)
+<use plots and graphs/11.png>
+Package pdftex.def Info: plots and graphs/11.png  used on input line 275.
+(pdftex.def)             Requested size: 244.18439pt x 148.70064pt.
+[6 <./plots and graphs/8.png> <./plots and graphs/9.png> <./plots and graphs/10.png> <./plots and graphs/11.png>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -477,24 +462,26 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5 <./plots and graphs/4.png> <./plots and graphs/5.png> <./plots and graphs/6.png>] (conference_101719.aux)
+[7
+
+] (conference_101719.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6627 strings out of 474424
- 150213 string characters out of 5742211
+ 6669 strings out of 474424
+ 151332 string characters out of 5742211
  1952496 words of memory out of 5000000
- 28929 multiletter control sequences out of 15000+600000
+ 28971 multiletter control sequences out of 15000+600000
  596115 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,14n,79p,477b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 64i,14n,79p,1413b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (5 pages, 553499 bytes).
+Output written on conference_101719.pdf (7 pages, 777505 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
