@@ -163,70 +163,48 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.t
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT .\Plots\mesh_sens.png
-INPUT .\Plots\mesh_sens.png
-INPUT .\Plots\mesh_sens.png
-INPUT .\Plots\mesh_sens.png
-INPUT .\Plots\mesh_sens.png
-INPUT .\Plots\mesh_sens.png
-INPUT .\Plots\mesh_sens.png
-INPUT .\Plots\30_pressure.png
-INPUT .\Plots\30_pressure.png
-INPUT .\Plots\30_pressure.png
-INPUT .\Plots\30_pressure.png
-INPUT .\Plots\30_pressure.png
-INPUT .\Plots\30_pressure.png
-INPUT .\Plots\30_pressure.png
-INPUT .\Plots\30_h2.png
-INPUT .\Plots\30_h2.png
-INPUT .\Plots\30_h2.png
-INPUT .\Plots\30_h2.png
-INPUT .\Plots\30_h2.png
-INPUT .\Plots\30_h2.png
-INPUT .\Plots\30_h2.png
-INPUT .\Plots\trapped mass.png
-INPUT .\Plots\trapped mass.png
-INPUT .\Plots\trapped mass.png
-INPUT .\Plots\trapped mass.png
-INPUT .\Plots\trapped mass.png
-INPUT .\Plots\trapped mass.png
-INPUT .\Plots\trapped mass.png
-INPUT .\Plots\pressure.png
-INPUT .\Plots\pressure.png
-INPUT .\Plots\pressure.png
-INPUT .\Plots\pressure.png
-INPUT .\Plots\pressure.png
-INPUT .\Plots\pressure.png
-INPUT .\Plots\pressure.png
-INPUT .\Plots\temperature.png
-INPUT .\Plots\temperature.png
-INPUT .\Plots\temperature.png
-INPUT .\Plots\temperature.png
-INPUT .\Plots\temperature.png
-INPUT .\Plots\temperature.png
-INPUT .\Plots\temperature.png
-INPUT .\Plots\hrr.png
-INPUT .\Plots\hrr.png
-INPUT .\Plots\hrr.png
-INPUT .\Plots\hrr.png
-INPUT .\Plots\hrr.png
-INPUT .\Plots\hrr.png
-INPUT .\Plots\hrr.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
-INPUT .\Plots\imep.png
+INPUT .\plots and graphs\1.png
+INPUT .\plots and graphs\1.png
+INPUT .\plots and graphs\1.png
+INPUT .\plots and graphs\1.png
+INPUT .\plots and graphs\1.png
+INPUT .\plots and graphs\1.png
+INPUT .\plots and graphs\1.png
+INPUT .\plots and graphs\2.png
+INPUT .\plots and graphs\2.png
+INPUT .\plots and graphs\2.png
+INPUT .\plots and graphs\2.png
+INPUT .\plots and graphs\2.png
+INPUT .\plots and graphs\2.png
+INPUT .\plots and graphs\2.png
+INPUT .\plots and graphs\3.png
+INPUT .\plots and graphs\3.png
+INPUT .\plots and graphs\3.png
+INPUT .\plots and graphs\3.png
+INPUT .\plots and graphs\3.png
+INPUT .\plots and graphs\3.png
+INPUT .\plots and graphs\3.png
+INPUT .\plots and graphs\4.png
+INPUT .\plots and graphs\4.png
+INPUT .\plots and graphs\4.png
+INPUT .\plots and graphs\4.png
+INPUT .\plots and graphs\4.png
+INPUT .\plots and graphs\4.png
+INPUT .\plots and graphs\4.png
+INPUT .\plots and graphs\5.png
+INPUT .\plots and graphs\5.png
+INPUT .\plots and graphs\5.png
+INPUT .\plots and graphs\5.png
+INPUT .\plots and graphs\5.png
+INPUT .\plots and graphs\5.png
+INPUT .\plots and graphs\5.png
+INPUT .\plots and graphs\6.png
+INPUT .\plots and graphs\6.png
+INPUT .\plots and graphs\6.png
+INPUT .\plots and graphs\6.png
+INPUT .\plots and graphs\6.png
+INPUT .\plots and graphs\6.png
+INPUT .\plots and graphs\6.png
 INPUT conference_101719.aux
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb

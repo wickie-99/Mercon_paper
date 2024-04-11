@@ -260,108 +260,78 @@ Relative Injection Start Time (IST) with respect to IVO is tested for combustion
 3 modes of injection: early, balance and delayed were derived for every VOT, consequently leading to a simulation matrix of 21 operating conditions.
 Results were analysed to identify trends in combustion characteristics and performance.
 
-\section{Numerical Model}
-\subsection{Model Description}
-Combustion models contain three regions including intake, cylinder, and exhaust. Redlich-Kwong gas equation is used for gas simulations. The Connaire reaction mechanism is used to calculate reaction rates. CFL number-based time stepping is used. The PISO algorithm is used for pressure velocity coupling. URANS-RNG k-epsilon model is used for turbulence modelling. O’Rourke and Amsden model are used to model wall heat transfer. For combustion modeling SAGE detailed chemistry solver is used. 
-A high temperature energy source is used to model the ignition process while fuel injection is modelled as a mass inflow boundary condition.
-\subsection{Mesh Sensitivity Analysis}
-With the available computational power and license requirements, the maximum element count that we can run our simulations is 0.5 million. Mesh sensitivity analysis is carried out up to that point. The analysis shows that the mesh configuration with 8 mm base mesh is suitable for the analysis. The error compared to 6 mm base mesh configuration is only X percent.
+\section{Results and Discussion}
+\subsection{Mesh sensitivity analysis and model validation}
+In-cylinder pressure under each mesh configuration is shown in Fig 1.
+
 \begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/mesh_sens.png}}
+    \centerline{\includegraphics{plots and graphs/1.png}}
     \caption{Mesh Sensitivity}
-    \label{plt_t}
-    \end{figure}
-\subsection{Model Validation}
-As [4] also mentioned, simulation results are usually greater than experimental data due to limitations of computational mesh and from the fact that only one cylinder is modelled. Other than that, differences in the engine geometry also leads to deviation of results.
-Although the maximum pressure differs by x percent, the numerical model follows the same trend as the experimental data. Therefore, this model can be used to find trends of the combustion process.
-
-In the previous figure, we can see that the model is vlaidated.
-    
-\section{Analysis}
-\subsection{Range Selection}
-Valve overlap time range of 15-45 is selected for the analysis. reasons
-VOT of 30 is first assumed to find the suitable range of injection timing with respect to intake valve open time, since VOT of 30 demonstrated the optimal engine performance in the study [7].
-Range of start angles of 00 aIVO to 400 aIVO is tested for their combustion characteristics. 
-It could be observed that, to properly combusts the mixture within the chamber while generating useful work injection start time of 200 aIVO to 300 aIVO is selected as possible range of injection.
-Earlier injection leads knocking combustion while delayed injection leads to incomplete combustion.
-Within the range injection start angles of 200 aIVO, 250 aIVO and 300 aIVO were selected as early, balanced, and delayed injection for all VOT values.
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/30_pressure.png}}
-    \caption{In-Cylinder Pressure for VOT = 30}
-    \label{plt_tttt}
-    \end{figure}
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics[width=88.9mm]{Plots/30_h2.png}}
-    \caption{Trapped Mass for VOT = 30}
-    \label{plt_ttt}
-    \end{figure}
-
-
-
-\subsection{Combustion Simulations}
-
-\section{Results}
-\subsection{Trapped Mass}
-As we can see on the graph trapped hydrogen mass reduces with delaying injection delay. In the early injection, the injected hydrogen of per cycle can fully flow into the cylinder rapidly. But delayed injection time, the hydrogen gas injected per cycle could not fully enter the cylinder. 
-
-\begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/trapped mass.png}}
-    \caption{Trapped Hydrogen Mass}
     \label{plt_1}
     \end{figure}
 
-\subsection{In-Cylinder Pressure}
+The in-cylinder pressure results with the 8 mm base mesh configuration follow a similar trend to the experimental data \cite{b10}.
+As \cite{b4} also mentioned simulation results can often be higher than due to limitations of the computational mesh and from the fact that only one cylinder is modelled.
+However, the combustion model can be effectively utilized to find combustion characteristics and trends in engine performance.
+
+\subsection{Range selection}
+When the IST is earlier than 5\textsuperscript{0} aIVO, knocking combustion occurs.
+On the other hand, when the IST is delayed more than 25\textsuperscript{0} aIVO, the mixture fails to combust properly.
+Therefore, for proper combustion, injection start angles of 5\textsuperscript{0} aIVO, 15\textsuperscript{0} aIVO and 25\textsuperscript{0} aIVO were selected as early, balanced, and delayed injection.
+
 \begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/pressure.png}}
-    \caption{Pressure}
+    \centerline{\includegraphics{plots and graphs/2.png}}
+    \caption{In-cylinder Pressure at different injection modes}
     \label{plt_2}
     \end{figure}
 
-\subsection{In-Cylinder Temperature}
+
+\subsection{Trapped Mass}
+When the injection is delayed with respect to IVO, for a few crack angles, only the air is flowing to the cylinder.
+It leads to reduced trapped mass with injection delay.
+A linear variation of trapped hydrogen mass could be observed irrespective of the injection mode.
+This can be understood by observing the variation of trapped mass with the crank angle at different VOTs as shown in the figure.
+When the VOT is reduced the IVC is delayed.
+Therefore, a higher fraction of inlet valve open time is affected by the upward push generated by the piston during the compression stroke.
+This is shown in the graph as an increased duration of mass reduction after 540\textsuperscript{0} degrees and further, increased VOT leads to an increased scavenging effect, which pushes the exhaust residual gases away from the chamber, eventually increasing the trapped mass.
+
+
 \begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/temperature.png}}
-    \caption{Temperature}
+    \centerline{\includegraphics{plots and graphs/3.png}}
+    \caption{Variation of trapped hydrogen mass at different valve times and injection modes}
     \label{plt_3}
     \end{figure}
 
-\subsection{Peak Heat Release Rate}
+Another important observation from the above variation is that a given trapped mass can be achieved through different parameter combinations of valve and injection timing.
+Depending on the other constraints including combustion characteristics, engine performance and prevention of abnormal combustion events, controlling one parameter may be better than the other.
+However, to give recommendations, further analysis is required.
+
 \begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/hrr.png}}
-    \caption{HRR}
+    \centerline{\includegraphics{plots and graphs/4.png}}
+    \caption{Variation of trapped hydrogen mass at different valve times}
     \label{plt_4}
     \end{figure}
 
-Low heat release rate indicates slower rate of chemical reaction while high heat release rate indicates rapid combustion. To produce more useful work from the combustion process, gradual combustion process should be ensured. 
-HRR < x can be defined as incomplete combustion and HRR > y can be defined as knocking combustion. Both of which should be eliminated for an effective combustion process.
-according to the results, xxxx cases can be defined as inefficient combustion cases.
-This rapid burning is due to increased trapped mass within the cylinder and consequently increased equivalence ratios.
-Ranges of valve and injection timing for proper combustion characteristics.
-
-\subsection{IMEP}
-
-\subsection{Peak Heat Release Rate}
+\subsection{Local concentration}
+As shown in the graph, high local concentration can develop near the inlet valve during the IVO.
+This localized concertation differs with different VOT and injection modes.
+As shown in the graph, local hydrogen concentration near inlet valves increases with both VOT and early injection.
+The ability to reduce local concentrations can only apply at reduced valve overlaps.
+Valve overlap can be effectively utilized to reduce local concentrations of hydrogen during balanced and delayed injection modes.
+However, the ability to reduce local concentrations by reducing VOT is insignificant with early injection mode. 
+    
 \begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/imep.png}}
-    \caption{IMEP}
+    \centerline{\includegraphics{plots and graphs/5.png}}
+    \caption{Local concetration of hydrogen near valve seats}
     \label{plt_5}
     \end{figure}
-Variation of IMEP with VOT and injection mode.
-Reduced trapped mass – less time to go to cylinder.
+
+    \begin{figure}[htbp]
+        \centerline{\includegraphics{plots and graphs/6.png}}
+        \caption{Local concetration of hydrogen near valve seats}
+        \label{plt_6}
+        \end{figure}
     
-\subsection{Efficiency}
-\begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/imep.png}}
-    \caption{Efficiency}
-    \label{plt_6}
-    \end{figure}
-\subsection{Local Concentration}
-\begin{figure}[htbp]
-    \centerline{\includegraphics{Plots/imep.png}}
-    \caption{Local Concentration}
-    \label{plt_7}
-    \end{figure}
 
 \section{Conclusion}
 
