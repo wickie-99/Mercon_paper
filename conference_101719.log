@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.12)  12 APR 2024 11:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.12)  12 APR 2024 11:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -284,32 +284,32 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\manga\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Underfull \hbox (badness 2181) in paragraph at lines 63--64
+Underfull \hbox (badness 2181) in paragraph at lines 62--63
 \OT1/ptm/m/n/10 diox-ide (CO2) emis-sions from fos-sil fuel con-sump-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 65--66
+Underfull \hbox (badness 2035) in paragraph at lines 64--65
 \OT1/ptm/m/n/10 man-i-fold, where it mixes with air be-fore en-ter-ing the
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 65--66
+Underfull \hbox (badness 1762) in paragraph at lines 64--65
 \OT1/ptm/m/n/10 and com-bus-tion oc-cur si-mul-ta-ne-ously, leav-ing less time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
@@ -317,162 +317,162 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 99.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 98.
 (C:\Users\manga\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 99.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
  (C:\Users\manga\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 107--109
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
 
- []
-
-
-Overfull \hbox (49.34546pt too wide) detected at line 114
-[]
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Overfull \hbox (49.34546pt too wide) detected at line 113
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 176--177
+Underfull \hbox (badness 5231) in paragraph at lines 175--176
 []\OT1/ptm/m/n/10 The ig-ni-tion pro-cess was sim-u-lated us-ing a high-
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 181--182
+Underfull \hbox (badness 2443) in paragraph at lines 180--181
 []\OT1/ptm/m/n/10 Several mesh con-fig-u-ra-tions with vary-ing base mesh
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 181--182
+Underfull \hbox (badness 5133) in paragraph at lines 180--181
 \OT1/ptm/m/n/10 sizes were eval-u-ated for mesh sen-si-tiv-ity. Given the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
 <plots and graphs/1.png, id=23, 216.153pt x 154.395pt>
 File: plots and graphs/1.png Graphic file (type png)
 <use plots and graphs/1.png>
-Package pdftex.def Info: plots and graphs/1.png  used on input line 194.
+Package pdftex.def Info: plots and graphs/1.png  used on input line 193.
 (pdftex.def)             Requested size: 216.15247pt x 154.39462pt.
 <plots and graphs/2.png, id=25, 221.0805pt x 158.0085pt>
 File: plots and graphs/2.png Graphic file (type png)
 <use plots and graphs/2.png>
-Package pdftex.def Info: plots and graphs/2.png  used on input line 205.
+Package pdftex.def Info: plots and graphs/2.png  used on input line 204.
 (pdftex.def)             Requested size: 221.07996pt x 158.00809pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
 <plots and graphs/3.png, id=26, 231.264pt x 155.49pt>
 File: plots and graphs/3.png Graphic file (type png)
 <use plots and graphs/3.png>
-Package pdftex.def Info: plots and graphs/3.png  used on input line 215.
+Package pdftex.def Info: plots and graphs/3.png  used on input line 214.
 (pdftex.def)             Requested size: 231.26343pt x 155.48961pt.
 <plots and graphs/4.png, id=27, 218.4525pt x 156.0375pt>
 File: plots and graphs/4.png Graphic file (type png)
 <use plots and graphs/4.png>
-Package pdftex.def Info: plots and graphs/4.png  used on input line 222.
+Package pdftex.def Info: plots and graphs/4.png  used on input line 221.
 (pdftex.def)             Requested size: 218.45197pt x 156.03711pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
 [4 <./plots and graphs/1.png> <./plots and graphs/2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
 
  []
 
 <plots and graphs/5.png, id=33, 185.931pt x 165.2355pt>
 File: plots and graphs/5.png Graphic file (type png)
 <use plots and graphs/5.png>
-Package pdftex.def Info: plots and graphs/5.png  used on input line 235.
+Package pdftex.def Info: plots and graphs/5.png  used on input line 234.
 (pdftex.def)             Requested size: 185.93053pt x 165.23509pt.
 
-Underfull \hbox (badness 1430) in paragraph at lines 240--241
+Underfull \hbox (badness 1430) in paragraph at lines 239--240
 []\OT1/ptm/m/n/10 Given that rel-a-tively higher lo-cal con-cen-tra-tions were
  []
 
 <plots and graphs/6.png, id=34, 214.839pt x 157.023pt>
 File: plots and graphs/6.png Graphic file (type png)
 <use plots and graphs/6.png>
-Package pdftex.def Info: plots and graphs/6.png  used on input line 244.
+Package pdftex.def Info: plots and graphs/6.png  used on input line 243.
 (pdftex.def)             Requested size: 214.83847pt x 157.0226pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
 <plots and graphs/7.png, id=35, 244.0755pt x 174.4335pt>
 File: plots and graphs/7.png Graphic file (type png)
 <use plots and graphs/7.png>
-Package pdftex.def Info: plots and graphs/7.png  used on input line 254.
+Package pdftex.def Info: plots and graphs/7.png  used on input line 253.
 (pdftex.def)             Requested size: 244.07489pt x 174.43306pt.
 <plots and graphs/8.png, id=36, 244.185pt x 176.733pt>
 File: plots and graphs/8.png Graphic file (type png)
 <use plots and graphs/8.png>
-Package pdftex.def Info: plots and graphs/8.png  used on input line 260.
+Package pdftex.def Info: plots and graphs/8.png  used on input line 259.
 (pdftex.def)             Requested size: 244.18439pt x 176.73256pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
 
  []
 
 <plots and graphs/9.png, id=37, 212.868pt x 168.63pt>
 File: plots and graphs/9.png Graphic file (type png)
 <use plots and graphs/9.png>
-Package pdftex.def Info: plots and graphs/9.png  used on input line 268.
+Package pdftex.def Info: plots and graphs/9.png  used on input line 267.
 (pdftex.def)             Requested size: 212.86746pt x 168.62958pt.
 [5 <./plots and graphs/3.png> <./plots and graphs/4.png> <./plots and graphs/5.png> <./plots and graphs/6.png>]
 <plots and graphs/10.png, id=45, 244.185pt x 180.456pt>
 File: plots and graphs/10.png Graphic file (type png)
 <use plots and graphs/10.png>
-Package pdftex.def Info: plots and graphs/10.png  used on input line 279.
+Package pdftex.def Info: plots and graphs/10.png  used on input line 278.
 (pdftex.def)             Requested size: 244.18439pt x 180.45555pt.
 
 Underfull \vbox (badness 1817) has occurred while \output is active []
@@ -480,23 +480,23 @@ Underfull \vbox (badness 1817) has occurred while \output is active []
 <plots and graphs/11.png, id=46, 244.185pt x 148.701pt>
 File: plots and graphs/11.png Graphic file (type png)
 <use plots and graphs/11.png>
-Package pdftex.def Info: plots and graphs/11.png  used on input line 288.
+Package pdftex.def Info: plots and graphs/11.png  used on input line 287.
 (pdftex.def)             Requested size: 244.18439pt x 148.70064pt.
 
 Underfull \vbox (badness 4505) has occurred while \output is active []
 
  [6 <./plots and graphs/7.png> <./plots and graphs/8.png> <./plots and graphs/9.png> <./plots and graphs/10.png>]
-Underfull \hbox (badness 2080) in paragraph at lines 324--325
+Underfull \hbox (badness 2080) in paragraph at lines 323--324
 []\OT1/ptm/m/n/8 M. U. Man-zoor, M. Yosri, M. Talei, F. Pour-sadegh, Y. Yang,
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 324--325
+Underfull \hbox (badness 1895) in paragraph at lines 323--324
 \OT1/ptm/m/n/8 and M. Brear, \Nor-mal and knock-ing com-bus-tion of hy-dro-gen:
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 324--325
+Underfull \hbox (badness 1565) in paragraph at lines 323--324
 \OT1/ptm/m/n/8 A nu-mer-i-cal study," Fuel, vol. 344, p. 128093, Jul. 2023, doi:
  []
 
@@ -526,7 +526,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  64i,14n,79p,1448b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/manga/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (7 pages, 779286 bytes).
+Output written on conference_101719.pdf (7 pages, 780137 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
